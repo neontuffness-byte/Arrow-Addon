@@ -9,4 +9,5 @@ AntiAim ( Ingame Name: AntiAim )
 Tag Notifications ( Ingame Name: Kill Feed )
 
 
-<img width="662" height="945" alt="image" src="https://github.com/user-attachments/assets/6dc7be9e-0426-46c4-bb1a-20c35dd92881" />
+<img width="621" height="936" alt="image" src="https://github.com/user-attachments/assets/d4d7eafe-f35a-47bd-b26c-e274717c9044" />
+
